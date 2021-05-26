@@ -14,3 +14,6 @@ I want to include the following criteria in my project:
 
 ![LandingPage](/UpdatedPortfolio1.png)
 ![AboutMe](/UpdatedPortfolio2.png)
+
+
+https://cbeatty94.github.io/UpdatedPortfolio-Resume/
