@@ -12,5 +12,8 @@ I want to include the following criteria in my project:
 
 4. Updated LinkedIn profile
 
-![LandingPage](UpdatedPortfolio1.png)
-![AboutMe](UpdatedPortfolio2.png)
+![LandingPage](/UpdatedPortfolio1.png)
+![AboutMe](/UpdatedPortfolio2.png)
+
+
+https://cbeatty94.github.io/UpdatedPortfolio-Resume/
